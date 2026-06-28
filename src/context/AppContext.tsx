@@ -1,6 +1,7 @@
 //AppContext.ts
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { Task, TeamMember, User, AppContextType } from '../types';
+import { API_URL } from '../config/api';
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
