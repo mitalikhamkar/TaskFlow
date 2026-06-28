@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, premium task management application with clean analytics, team collaboration, and responsive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
