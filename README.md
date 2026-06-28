@@ -2,6 +2,11 @@
 
 TaskFlow is a modern full-stack task management application built using the MERN stack. It allows users to manage daily tasks with a clean, responsive interface and secure authentication.
 
+## Live Link
+
+https://task-flow-jet-tau.vercel.app/
+
+
 ## Features
 
 - User Registration & Login (JWT Authentication)
@@ -39,7 +44,7 @@ TaskFlow is a modern full-stack task management application built using the MERN
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/mitalikhamkar/TaskFlow)
 
 cd taskflow
 
