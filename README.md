@@ -1,20 +1,48 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TaskFlow – MERN Stack Task Tracker
 
-# Run and deploy your AI Studio app
+TaskFlow is a modern full-stack task management application built using the MERN stack. It allows users to manage daily tasks with a clean, responsive interface and secure authentication.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/36a7edfa-8b4c-4e3f-a210-d973ba19a3a4
+- User Registration & Login (JWT Authentication)
+- Create, Read, Update and Delete Tasks (CRUD)
+- Task Status Management
+- Pending, Completed and Overdue Tasks
+- Drag & Drop Task Movement
+- Profile Management
+- Responsive UI
+- Form Validation
+- MongoDB Database Integration
+- Secure REST APIs
+- Persistent User Sessions
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+### Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+- React Context API
 
+### Backend
+- Node.js
+- Express.js
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Database
+- MongoDB Atlas
+- Mongoose
+
+### Authentication
+- JWT
+- bcryptjs
+
+## Installation
+
+```bash
+git clone <repository-url>
+
+cd taskflow
+
+npm install
+
+npm run dev
