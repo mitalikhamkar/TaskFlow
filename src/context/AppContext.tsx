@@ -30,7 +30,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       ...(options.headers || {}),
     };
 
-    const response = await fetch(endpoint, {
+    const response = await fetch(`${API_URL}${endpoint}`, {
       ...options,
       headers,
     });
