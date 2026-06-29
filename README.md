@@ -1,6 +1,6 @@
 # TaskFlow – MERN Stack Task Tracker
 
-TaskFlow is a modern full-stack task management application built using the MERN stack. It allows users to manage daily tasks with a clean, responsive interface and secure authentication.
+TaskFlow is a modern full-stack task management Web application built using the MERN stack. It allows users to manage daily tasks with a clean, responsive interface and secure authentication.Its an assignment from Colledge connect which i completed in 1 day.
 
 ## Live Link
 
